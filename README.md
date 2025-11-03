@@ -2,6 +2,8 @@
 
 しあわせ貯金箱
 
+
+
 <img width="340" height="717" alt="image" src="https://github.com/user-attachments/assets/9e0e0b3e-fb68-4569-8715-3427b8985a35" />
 
 日々の小さな「しあわせ」を記録し、思い出を集めるiOSアプリです。
