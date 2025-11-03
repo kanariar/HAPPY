@@ -1,6 +1,9 @@
-しあわせ貯金箱 (Happy Piggy Bank) 💖
+・アプリタイトル
+しあわせ貯金箱
+
 日々の小さな「しあわせ」を記録し、可視化するためのiOSアプリです。
-![alt text](https://your-image-url.com/screenshot.png)
+<img width="333" height="726" alt="image" src="https://github.com/user-attachments/assets/f8ac197e-f701-48d7-b41b-029f9f954730" />
+
 
 (ここにアプリのスクリーンショットやGIFアニメーションを挿入すると、より魅力的になります)
 ✨ 概要
