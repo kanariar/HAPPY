@@ -2,7 +2,8 @@
 しあわせ貯金箱
 
 
-<img width="333" height="726" alt="image" src="https://github.com/user-attachments/assets/f8ac197e-f701-48d7-b41b-029f9f954730" />
+<img width="340" height="717" alt="image" src="https://github.com/user-attachments/assets/9e0e0b3e-fb68-4569-8715-3427b8985a35" />
+
 
 
 
